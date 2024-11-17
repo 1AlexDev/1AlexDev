@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @1AlexDev
-- 👀 I’m interested in Roblox Development
-- 🌱 I’m currently learning Lua / Python / Java.
-- 💞️ I’m looking to collaborate on nothing ATM
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm very cool 💀
-
-<!---
-1AlexDev/1AlexDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+<h1>wsp im alex 😎</h1>
+<p>
+    self-taught developer<br>
+    3+ yrs of developing
+</p>
+<h1>my github stats ig</h1>
+  <a href="https://github.com/1AlexDev">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1AlexDev&theme=transparent" />
+  </a>
+  <a href="https://github.com/1AlexDev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1AlexDev&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/1AlexDev">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1AlexDev&theme=transparent" />
+  </a>
+  <a href="https://github.com/1AlexDev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1AlexDev&hide_border=true&card_width=338&theme=transparent"/>
+  </a>
+</div>
